@@ -1,0 +1,14 @@
+body{
+    font-size: large;
+    background-color: lightblue;
+    color:white;
+    text-align:center;
+}
+button{
+    background-color: lightblue;
+    color:grey;
+    font-size: larger;
+}
+iframe{
+    border-color:"brown";
+}

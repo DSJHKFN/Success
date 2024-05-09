@@ -1,0 +1,44 @@
+.body_background 
+{
+    background-color: green;
+    text-align: center;
+}
+#myCanvas
+{
+    border-width:10px;
+    border-style:ridge;
+	background-color:yellow;
+}
+
+
+#hd3{
+	display: inline-block;
+	color: orange;
+	font-family: fantasy;
+}
+
+#aqui{
+    background-color: yellow;
+    color: black;
+}
+#hire{
+    color:red;
+    background-color:black;
+    text-align: center;
+}
+#hi{
+    background-color: yellow;
+    color: black;
+}
+button{
+    background-color: yellow;
+    color: black;
+}
+body{
+    font-size: large;
+    background-color: green
+}
+
+iframe{
+    border-color:"brown";
+}
